@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cshome/n/nsparrow/450/assignment2/PlaneFinder/rply.c
+stdio.h
+-
+ctype.h
+-
+assert.h
+-
+string.h
+-
+limits.h
+-
+float.h
+-
+stdarg.h
+-
+stdlib.h
+-
+stddef.h
+-
+rply.h
+/home/cshome/n/nsparrow/450/assignment2/PlaneFinder/rply.h
+rplyfile.h
+/home/cshome/n/nsparrow/450/assignment2/PlaneFinder/rplyfile.h
+stdint.h
+-
+
+/home/cshome/n/nsparrow/450/assignment2/PlaneFinder/rply.h
+
+/home/cshome/n/nsparrow/450/assignment2/PlaneFinder/rplyfile.h
+
